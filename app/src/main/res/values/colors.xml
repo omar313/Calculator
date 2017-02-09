@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@android:color/transparent</color>
+    <color name="colorPrimaryDark">#20e5ef</color>
+    <color name="colorAccent">#e4f12e</color>
+
+    <color name="colorNumPadBackgroundNight">#4b4848</color>
+    <color name="colorFunctionPadBackgroundNight">#1de8b5</color>
+
+    <color name="colorNumPadBackground">#f5f5f5</color>
+    <color name="colorFunctionPadBackground">#FF27A8FF</color>
+    <color name="colorNightFuncButtonTextColor">#0d6750</color>
+</resources>
+<!--FF27A8FF-->
+<!--#071049-->
+
+<!--<color name="colorAccent">#2ef16c</color>-->
